@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Stathub.Infrastructure/Stathub.Infrastructure.csproj" />
+    <Project Path="src/Stathub.Shared/Stathub.Shared.csproj" />
+    <Project Path="src/Stathub.WebApi/Stathub.WebApi.csproj" />
+    <Folder Name="/src/Modules/" />
+  </Folder>
+</Solution>

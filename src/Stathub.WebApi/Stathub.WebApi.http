@@ -1,0 +1,6 @@
+@Stathub.WebApi_HostAddress = http://localhost:5248
+
+GET {{Stathub.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
